@@ -1,0 +1,452 @@
+
+                <!-- ====== service-area-start
+        ==================================================== -->
+                <div id="service" class="service-area section-bg over-hidden pt-160 pb-145">
+                    <div class="service-wrapper position-relative">
+                        <div class="container">
+                            <div class="row align-items-start">
+                                <div class="col-xl-12 col-lg-12  col-md-12  col-sm-12 col-12">
+                                    <div class="title text-center">
+                                        <span class="theme-color text-uppercase d-block mb-6">Service</span>
+                                        <h2 class="text-white">What I offer</h2>
+                                    </div><!-- /title -->
+                                </div><!-- /col -->
+                            </div><!-- /row -->
+                            <div class="row service-wrappers mt-80">
+                                <div class="col-xl-6  col-lg-6  col-md-6  col-sm-12 col-12" data-aos="fade-up"
+                                    data-aos-anchor-placement="top-bottom" data-aos-duration="1000"
+                                    data-aos-delay="500">
+                                    <div
+                                        class="single-service shadow-hover transition3 primary-bg border-radius10 pl-50 pr-50 pt-65 pb-55 mb-25">
+                                        <div class="row">
+                                            <div class="col-xl-3  col-lg-3  col-md-6  col-sm-4 col-4 text-lg-center">
+                                                <div
+                                                    class="service-ser-icon d-inline-block text-center position-relative mb-15">
+                                                    <img class="position-relative z-index1"
+                                                        src="images/icon/ser-icon1.png" alt="icon">
+                                                    <div
+                                                        class="service-small-circle service-circle rounded-circle transition5 secondary-bg d-inline-block position-absolute">
+                                                    </div>
+                                                    <div
+                                                        class="service-large-circle service-circle rounded-circle transition5 secondary-bg d-inline-block position-absolute">
+                                                    </div>
+                                                </div><!-- /service-ser-icon -->
+                                            </div><!-- /col -->
+                                            <div class="col-xl-9  col-lg-9  col-md-12  col-sm-12 col-12">
+                                                <div class="service-text d-inline-block ml-xl-2">
+                                                    <h3 class="mb-15">Web Development</h3>
+                                                    <p class="mb-0">Ludantium totam rem aperia meaququae ab tatis et
+                                                        quasi
+                                                        architecto beatae vit dunt ut labore et dolore magna aliqua.</p>
+                                                </div>
+                                            </div><!-- /col -->
+                                        </div>
+                                    </div><!-- /single-service -->
+                                </div><!-- /col -->
+                                <div class="col-xl-6  col-lg-6  col-md-6  col-sm-12 col-12" data-aos="fade-up"
+                                    data-aos-anchor-placement="top-bottom" data-aos-duration="1200"
+                                    data-aos-delay="500">
+                                    <div
+                                        class="single-service shadow-hover transition3 primary-bg border-radius10 pl-50 pr-50 pt-65 pb-55 mb-25">
+                                        <div class="row">
+                                            <div class="col-xl-3  col-lg-3  col-md-6  col-sm-4 col-4 text-lg-center">
+                                                <div
+                                                    class="service-ser-icon d-inline-block text-center position-relative mb-15">
+                                                    <img class="position-relative z-index1"
+                                                        src="images/icon/ser-icon2.png" alt="icon">
+                                                    <div
+                                                        class="service-small-circle service-circle rounded-circle transition5 secondary-bg d-inline-block position-absolute">
+                                                    </div>
+                                                    <div
+                                                        class="service-large-circle service-circle rounded-circle transition5 secondary-bg d-inline-block position-absolute">
+                                                    </div>
+                                                </div><!-- /service-ser-icon -->
+                                            </div><!-- /col -->
+                                            <div class="col-xl-9  col-lg-9  col-md-12  col-sm-12 col-12">
+                                                <div class="service-text d-inline-block ml-xl-2">
+                                                    <h3 class="mb-15">Software Development</h3>
+                                                    <p class="mb-0">Ludantium totam rem aperia meaququae ab tatis et
+                                                        quasi
+                                                        architecto beatae vit dunt ut labore et dolore magna aliqua.</p>
+                                                </div>
+                                            </div><!-- /col -->
+                                        </div>
+                                    </div><!-- /single-service -->
+                                </div><!-- /col -->
+                                <div class="col-xl-6  col-lg-6  col-md-6  col-sm-12 col-12" data-aos="fade-up"
+                                    data-aos-anchor-placement="top-bottom" data-aos-duration="1000">
+                                    <div
+                                        class="single-service shadow-hover transition3 primary-bg border-radius10 pl-50 pr-50 pt-65 pb-55 mb-25">
+                                        <div class="row">
+                                            <div class="col-xl-3  col-lg-3  col-md-6  col-sm-4 col-4 text-lg-center">
+                                                <div
+                                                    class="service-ser-icon d-inline-block text-center position-relative mb-15">
+                                                    <img class="position-relative z-index1"
+                                                        src="images/icon/ser-icon3.png" alt="icon">
+                                                    <div
+                                                        class="service-small-circle service-circle rounded-circle transition5 secondary-bg d-inline-block position-absolute">
+                                                    </div>
+                                                    <div
+                                                        class="service-large-circle service-circle rounded-circle transition5 secondary-bg d-inline-block position-absolute">
+                                                    </div>
+                                                </div><!-- /service-ser-icon -->
+                                            </div><!-- /col -->
+                                            <div class="col-xl-9  col-lg-9  col-md-12  col-sm-12 col-12">
+                                                <div class="service-text d-inline-block ml-xl-2">
+                                                    <h3 class="mb-15">System Development</h3>
+                                                    <p class="mb-0">Ludantium totam rem aperia meaququae ab tatis et
+                                                        quasi
+                                                        architecto beatae vit dunt ut labore et dolore magna aliqua.</p>
+                                                </div>
+                                            </div><!-- /col -->
+                                        </div>
+                                    </div><!-- /single-service -->
+                                </div><!-- /col -->
+                                <div class="col-xl-6  col-lg-6  col-md-6  col-sm-12 col-12" data-aos="fade-up"
+                                    data-aos-anchor-placement="top-bottom" data-aos-duration="1200">
+                                    <div
+                                        class="single-service shadow-hover transition3 primary-bg border-radius10 pl-50 pr-50 pt-65 pb-55 mb-25">
+                                        <div class="row">
+                                            <div class="col-xl-3  col-lg-3  col-md-6  col-sm-4 col-4 text-lg-center">
+                                                <div
+                                                    class="service-ser-icon d-inline-block text-center position-relative mb-15">
+                                                    <img class="position-relative z-index1"
+                                                        src="images/icon/ser-icon4.png" alt="icon">
+                                                    <div
+                                                        class="service-small-circle service-circle rounded-circle transition5 secondary-bg d-inline-block position-absolute">
+                                                    </div>
+                                                    <div
+                                                        class="service-large-circle service-circle rounded-circle transition5 secondary-bg d-inline-block position-absolute">
+                                                    </div>
+                                                </div><!-- /service-ser-icon -->
+                                            </div><!-- /col -->
+                                            <div class="col-xl-9  col-lg-9  col-md-12  col-sm-12 col-12">
+                                                <div class="service-text d-inline-block ml-xl-2">
+                                                    <h3 class="mb-15">Security Analysis</h3>
+                                                    <p class="mb-0">Ludantium totam rem aperia meaququae ab tatis et
+                                                        quasi
+                                                        architecto beatae vit dunt ut labore et dolore magna aliqua.</p>
+                                                </div>
+                                            </div><!-- /col -->
+                                        </div>
+                                    </div><!-- /single-service -->
+                                </div><!-- /col -->
+                            </div><!-- /row -->
+                        </div><!-- /container -->
+
+                        <div class="about-icon position-absolute d-none d-md-inline-block z-index1 zoom-animation">
+                            <img src="images/shape/content-shape2.png" alt="shape 2">
+                        </div><!-- /intro-feature-icon -->
+
+                    </div><!-- /service-wrapper -->
+                </div>
+                <!-- service-area-end -->
+
+
+
+                <!-- ====== pricing-area-start
+        ==================================================== -->
+                <div class="pricing-area over-hidden pt-160 pb-140">
+                    <div class="container">
+                        <div class="row align-items-start">
+                            <div class="col-xl-12 col-lg-12  col-md-12  col-sm-12 col-12">
+                                <div class="title text-center">
+                                    <span class="theme-color text-uppercase d-block mb-6">Let’s Start Working</span>
+                                    <h2>Pricing Plans</h2>
+                                </div><!-- /title -->
+                            </div><!-- /col -->
+                        </div><!-- /row -->
+                        <div class="row price-wrapper justify-content-center mt-80">
+                            <div class="col-xl-4  col-lg-4  col-md-6  col-sm-8 col-12" data-aos="fade-up"
+                                data-aos-anchor-placement="top-bottom" data-aos-duration="1200">
+                                <div
+                                    class="single-price primary-bg shadow-hover transition3 border-radius10 pl-45 pr-45 pt-45 pb-50 mb-30">
+                                    <h3 class="theme-border-bottom pb-25">Hourly</h3>
+                                    <p class="mt-20 mb-10 f-500 primary-bg "><span
+                                            class="theme-color rate pr-12">$99</span>/
+                                        Per Hour</p>
+                                    <ul class="price-list">
+                                        <li class="d-flex align-items-center">
+                                            <span class="theme-color d-inline-block text-center"><i
+                                                    class="far fa-check"></i></span>
+                                            <p class="mb-0 ml-20">One time contract</p>
+                                        </li>
+                                        <li class="d-flex align-items-center">
+                                            <span class="theme-color d-inline-block text-center"><i
+                                                    class="far fa-check"></i></span>
+                                            <p class="mb-0 ml-20">Flexible Contract</p>
+                                        </li>
+                                        <li class="d-flex align-items-center">
+                                            <span class="theme-color d-inline-block text-center"><i
+                                                    class="far fa-check"></i></span>
+                                            <p class="mb-0 ml-20">Source Files</p>
+                                        </li>
+                                        <li class="d-flex align-items-center">
+                                            <span class="disable d-block text-center"><i
+                                                    class="far fa-times"></i></span>
+                                            <p class="mb-0 ml-20">Support</p>
+                                        </li>
+                                        <li class="d-flex align-items-center">
+                                            <span class="disable d-inline-block text-center"><i
+                                                    class="far fa-times"></i></span>
+                                            <p class="mb-0 ml-20">Updates</p>
+                                        </li>
+                                    </ul>
+                                    <a href="#"
+                                        class="btn position-relative over-hidden theme-bg text-uppercase mt-25">Start
+                                        now</a>
+                                </div><!-- / -->
+                            </div><!-- /col -->
+                            <div class="col-xl-4  col-lg-4  col-md-6  col-sm-8 col-12" data-aos="fade-up"
+                                data-aos-anchor-placement="top-bottom" data-aos-duration="1400">
+                                <div
+                                    class="single-price primary-bg shadow-hover transition3 border-radius10 pl-45 pr-45 pt-45 pb-50 mb-30">
+                                    <h3 class="theme-border-bottom pb-25">Project Basis</h3>
+                                    <p class="mt-20 mb-10 f-500 primary-bg "><span
+                                            class="theme-color rate pr-12">$69</span>/
+                                        Per Hour</p>
+                                    <ul class="price-list">
+                                        <li class="d-flex align-items-center">
+                                            <span class="theme-color d-inline-block text-center"><i
+                                                    class="far fa-check"></i></span>
+                                            <p class="mb-0 ml-20">One time contract</p>
+                                        </li>
+                                        <li class="d-flex align-items-center">
+                                            <span class="theme-color d-inline-block text-center"><i
+                                                    class="far fa-check"></i></span>
+                                            <p class="mb-0 ml-20">Flexible Contract</p>
+                                        </li>
+                                        <li class="d-flex align-items-center">
+                                            <span class="theme-color d-inline-block text-center"><i
+                                                    class="far fa-check"></i></span>
+                                            <p class="mb-0 ml-20">Source Files</p>
+                                        </li>
+                                        <li class="d-flex align-items-center">
+                                            <span class="theme-color d-inline-block text-center"><i
+                                                    class="far fa-check"></i></span>
+                                            <p class="mb-0 ml-20">Support</p>
+                                        </li>
+                                        <li class="d-flex align-items-center">
+                                            <span class="disable d-inline-block text-center"><i
+                                                    class="far fa-times"></i></span>
+                                            <p class="mb-0 ml-20">Updates</p>
+                                        </li>
+                                    </ul>
+                                    <a href="#"
+                                        class="btn position-relative over-hidden theme-bg text-uppercase mt-25">Start
+                                        now</a>
+                                </div><!-- / -->
+                            </div><!-- /col -->
+                            <div class="col-xl-4  col-lg-4  col-md-6  col-sm-8 col-12" data-aos="fade-up"
+                                data-aos-anchor-placement="top-bottom" data-aos-duration="1600">
+                                <div
+                                    class="single-price primary-bg shadow-hover transition3 border-radius10 pl-45 pr-45 pt-45 pb-50 mb-30">
+                                    <h3 class="theme-border-bottom pb-25">Monthly</h3>
+                                    <p class="mt-20 mb-10 f-500 primary-bg "><span
+                                            class="theme-color rate pr-12">$39</span>/
+                                        Per Hour</p>
+                                    <ul class="price-list">
+                                        <li class="d-flex align-items-center">
+                                            <span class="theme-color d-inline-block text-center"><i
+                                                    class="far fa-check"></i></span>
+                                            <p class="mb-0 ml-20">One time contract</p>
+                                        </li>
+                                        <li class="d-flex align-items-center">
+                                            <span class="theme-color d-inline-block text-center"><i
+                                                    class="far fa-check"></i></span>
+                                            <p class="mb-0 ml-20">Flexible Contract</p>
+                                        </li>
+                                        <li class="d-flex align-items-center">
+                                            <span class="theme-color d-inline-block text-center"><i
+                                                    class="far fa-check"></i></span>
+                                            <p class="mb-0 ml-20">Source Files</p>
+                                        </li>
+                                        <li class="d-flex align-items-center">
+                                            <span class="theme-color d-inline-block text-center"><i
+                                                    class="far fa-check"></i></span>
+                                            <p class="mb-0 ml-20">Support</p>
+                                        </li>
+                                        <li class="d-flex align-items-center">
+                                            <span class="theme-color d-inline-block text-center"><i
+                                                    class="far fa-check"></i></span>
+                                            <p class="mb-0 ml-20">Updates</p>
+                                        </li>
+                                    </ul>
+                                    <a href="#"
+                                        class="btn position-relative over-hidden theme-bg text-uppercase mt-25">Start
+                                        now</a>
+                                </div><!-- / -->
+                            </div><!-- /col -->
+                        </div><!-- /row -->
+                    </div><!-- /container -->
+                </div>
+                <!-- pricing-area-end -->
+
+
+                <!-- ====== testimonial-area-start
+        ==================================================== -->
+                <div class="testimonial-area position-relative over-hidden">
+                    <div class="container">
+                        <div class="testimonial-bg section-bg pt-170 pb-170 position-relative">
+                            <div class="row align-items-start justify-content-center">
+                                <div class="col-xl-7 col-lg-7 col-md-12  col-sm-12 col-12">
+                                    <div class="position-relative">
+                                        <div class="title">
+                                            <span class="theme-color text-uppercase d-block mb-6">Testimonials</span>
+                                            <h2 class="mb-20">What People Say</h2>
+                                        </div><!-- /title -->
+                                    </div>
+                                    <div class="testimonial-wrapper position-relative mt-40 pb-50">
+                                        <div class="quit d-inline-block position-absolute left-0">
+                                            <img class="theme-color" src="images/testimonial/testimonial-icon.png"
+                                                alt="quote">
+                                        </div>
+                                        <div class="testimonial-active pl-80 pr-90">
+                                            <div class="testimonial-content">
+                                                <blockquote
+                                                    class="testimonial-text position-relative mb-0 font-italic openS-font-family text-color">
+                                                    Excepteur sint occaecat cupidatat non proiden sunt in culpa qui
+                                                    officia
+                                                    deserunt mollit anim id est laebor um. Sed ut perspiciatis unde
+                                                    omnis
+                                                    iste natus error sit volup tatem gotiraz bole ami ke</blockquote>
+                                                <div class="testi-info d-flex align-items-center mt-40">
+                                                    <div class="testi-avatar mr-25">
+                                                        <img class="rounded-circle"
+                                                            src="images/testimonial/author-img.jpg"
+                                                            alt="author image 1">
+                                                    </div><!-- /testi-avatar -->
+                                                    <div class="avatar-info">
+                                                        <h5 class="mb-1 text-capitalize">Paul Harrison,</h5>
+                                                        <p class="meta-text-color mb-0">eThemeStudio</p>
+                                                    </div>
+                                                </div>
+                                            </div><!-- /testimonial-content -->
+                                            <div class="testimonial-content">
+                                                <blockquote
+                                                    class="testimonial-text position-relative mb-0 font-italic openS-font-family text-color">
+                                                    Excepteur sint occaecat cupidatat non proiden sunt in culpa qui
+                                                    officia
+                                                    deserunt mollit anim id est laebor um. Sed ut perspiciatis unde
+                                                    omnis
+                                                    iste natus error sit volup tatem gotiraz bole ami ke</blockquote>
+                                                <div class="testi-info d-flex align-items-center mt-40">
+                                                    <div class="testi-avatar mr-25">
+                                                        <img class="rounded-circle"
+                                                            src="images/testimonial/author-img.jpg"
+                                                            alt="author image 2">
+                                                    </div><!-- /testi-avatar -->
+                                                    <div class="avatar-info">
+                                                        <h5 class="mb-1 text-capitalize">Paul Harrison,</h5>
+                                                        <p class="meta-text-color mb-0">eThemeStudio</p>
+                                                    </div>
+                                                </div>
+                                            </div><!-- /testimonial-content -->
+                                            <div class="testimonial-content">
+                                                <blockquote
+                                                    class="testimonial-text position-relative mb-0 font-italic openS-font-family text-color">
+                                                    Excepteur sint occaecat cupidatat non proiden sunt in culpa qui
+                                                    officia
+                                                    deserunt mollit anim id est laebor um. Sed ut perspiciatis unde
+                                                    omnis
+                                                    iste natus error sit volup tatem gotiraz bole ami ke</blockquote>
+                                                <div class="testi-info d-flex align-items-center mt-40">
+                                                    <div class="testi-avatar mr-25">
+                                                        <img class="rounded-circle"
+                                                            src="images/testimonial/author-img.jpg"
+                                                            alt="author image 3">
+                                                    </div><!-- /testi-avatar -->
+                                                    <div class="avatar-info">
+                                                        <h5 class="mb-1 text-capitalize">Paul Harrison,</h5>
+                                                        <p class="meta-text-color mb-0">eThemeStudio</p>
+                                                    </div>
+                                                </div>
+                                            </div><!-- /testimonial-content -->
+                                        </div>
+                                    </div><!-- /testimonial-wrapper -->
+                                </div><!-- /col -->
+                                <div class="col-xl-5 col-lg-5 col-md-12 col-sm-11 col-12">
+                                    <div class="testimonial-img position-relative z-index1" data-aos="fade-left"
+                                        data-aos-duration="1500">
+                                        <img class="border-radius12" src="images/testimonial/testimonials-img.jpg"
+                                            alt="author image ">
+                                    </div><!-- /testimonial-img -->
+                                </div><!-- /col -->
+                            </div><!-- /row -->
+
+                            <div
+                                class="intro-feature-text-style testimonial-text-style position-absolute d-none d-md-inline-block">
+                                <span class="d-inline-block">Testim</span>
+                            </div><!-- /intro-feature-text -->
+
+                        </div><!-- /testimonial-bg -->
+                    </div><!-- /container -->
+
+                </div>
+                <!-- testimonial-area-end -->
+
+
+                <!-- ====== brand-area-start
+        ==================================================== -->
+                <div class="brand-area brand-height over-hidden">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-xl-12 col-lg-12  col-md-12  col-sm-12 col-12">
+                                <ul class="brand-active  mt-70 mb-90">
+                                    <li class="d-inline-block position-relative over-hidden">
+                                        <a class="single-brand pt-20 d-block text-center transition3" href="index.html">
+                                            <img class="img" src="images/brand/brand-img1.png" alt="brand logo 1">
+                                        </a>
+                                    </li>
+                                    <li class="d-inline-block position-relative over-hidden">
+                                        <a class="single-brand pt-20 d-block text-center transition3" href="index.html">
+                                            <img class="img" src="images/brand/brand-img2.png" alt="brand logo 2">
+                                        </a>
+                                    </li>
+                                    <li class="d-inline-block position-relative over-hidden">
+                                        <a class="single-brand pt-20 d-block text-center transition3" href="index.html">
+                                            <img class="img" src="images/brand/brand-img3.png" alt="brand logo 3">
+                                        </a>
+                                    </li>
+                                    <li class="d-inline-block position-relative over-hidden">
+                                        <a class="single-brand pt-20 d-block text-center transition3" href="index.html">
+                                            <img class="img" src="images/brand/brand-img4.png" alt="brand logo 4">
+                                        </a>
+                                    </li>
+                                    <li class="d-inline-block position-relative over-hidden">
+                                        <a class="single-brand pt-20 d-block text-center transition3" href="index.html">
+                                            <img class="img" src="images/brand/brand-img5.png" alt="brand logo 5">
+                                        </a>
+                                    </li>
+                                    <li class="d-inline-block position-relative over-hidden">
+                                        <a class="single-brand pt-20 d-block text-center transition3" href="index.html">
+                                            <img class="img" src="images/brand/brand-img1.png" alt="brand logo 1">
+                                        </a>
+                                    </li>
+                                    <li class="d-inline-block position-relative over-hidden">
+                                        <a class="single-brand pt-20 d-block text-center transition3" href="index.html">
+                                            <img class="img" src="images/brand/brand-img2.png" alt="brand logo 2">
+                                        </a>
+                                    </li>
+                                    <li class="d-inline-block position-relative over-hidden">
+                                        <a class="single-brand pt-20 d-block text-center transition3" href="index.html">
+                                            <img class="img" src="images/brand/brand-img3.png" alt="brand logo 3">
+                                        </a>
+                                    </li>
+                                    <li class="d-inline-block position-relative over-hidden">
+                                        <a class="single-brand pt-20 d-block text-center transition3" href="index.html">
+                                            <img class="img" src="images/brand/brand-img4.png" alt="brand logo 4">
+                                        </a>
+                                    </li>
+                                    <li class="d-inline-block position-relative over-hidden">
+                                        <a class="single-brand pt-20 d-block text-center transition3" href="index.html">
+                                            <img class="img" src="images/brand/brand-img5.png" alt="brand logo 5">
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div><!-- /col -->
+                        </div><!-- /row -->
+                        <div class="theme-border-bottom"></div>
+                    </div><!-- /container -->
+                </div>
+                <!-- brand-area-end  -->
